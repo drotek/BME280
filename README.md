@@ -3,7 +3,7 @@ BME280 Barometric Pressure, humidity and Temperature sensor
 
 
 The Bosch BME280 chip incorporates three sensors: a Barometric pressure sensor, a humidity sensor and an other one for temperature.
-this cheap but accurate sensor is perfect for all weather applications thanks to the ± 1hPa / ± 1 ° C / 3%(humidity) accuracy.
+this cheap but accurate sensor is perfect for all weather and environmental applications thanks to the ± 1hPa / ± 1 ° C / 3%(humidity) accuracy.
 With the barometer, this sensor can also be used as an altimeter with an accuracy of ± 1 meter.
 This sensor is also very versatile thanks to its I2C and SPI communication bus
 
