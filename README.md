@@ -7,7 +7,7 @@ this cheap but accurate sensor is perfect for all weather and environmental appl
 With the barometer, this sensor can also be used as an altimeter with an accuracy of ± 1 meter.
 This sensor is also very versatile thanks to its I2C and SPI communication bus
 
-More information for this repo can be found on the [Drotek.com product page](http://www.drotek.com/shop/en/home/751-bmp280-breakout-board.html)
+More information for this repo can be found on the [Drotek.com product page](http://www.drotek.com/shop/en/home/757-bme280-breakout-board.html)
 
 Wiring and Test
 -------------------
